@@ -1,0 +1,39 @@
+html{
+    background-image:linear-gradient(to right, black,rgb(71, 71, 71)) ;
+    
+body{
+    color: white;
+    width: 80%;
+    margin: 0 auto 0 auto;
+    height:100%;
+    
+}
+h1{
+    text-align: center;
+}
+section{
+    text-align: center;
+    border: 3px solid rgb(123, 123, 236);
+    border-radius: 50px;
+    background-color: rgb(27, 26, 26);
+    padding: 20px;
+}
+input{
+    background-color: rgb(123, 123, 236);
+}
+select{
+    background-color: rgb(123, 123, 236);
+}
+textarea{
+    background-color: rgb(123, 123, 236);
+}
+button{
+    border-radius: 40px;
+    line-height: 30px;
+    padding: 0 20px 0 20px;
+    font-size: 20px;
+}
+footer{
+    text-align: center;
+    font-style: italic;
+}
